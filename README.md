@@ -1,2 +1,2 @@
 # Finance-APP
-A desktop Application to manage finance
+A Web Application to manage finance
